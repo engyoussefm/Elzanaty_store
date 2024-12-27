@@ -1,0 +1,40 @@
+name : ELZANATY STORE
+
+objective : To establish a fully integrated production and sales ecosystem that enhances operational efficiency and maximizes market reach.
+
+description : This project encompasses five critical phases aimed at building a seamless connection between production,
+ storage,and online retail. 
+The phases include infrastructure development, product line establishment, website creation, product sorting, and a go-live marketing strategy.
+
+stakeholders :
+Internal: Store Owner , Project Manager, Factory Operations Team, IT Team, Marketing Team
+
+External: Suppliers, Customers, Market Researchers, Advertising Agencies
+
+teams :
+Infrastructure Development Team
+
+Product Line and Research Team
+
+Website Development Team
+
+Sorting and Logistics Team
+
+Marketing and Launch Team
+
+risks:
+Delays in factory and storage setup.
+
+Technical issues during website development.
+
+Marketing strategies not reaching target audiences.
+
+cost:
+33,374
+
+time:
+223 days 
+
+project manager : MARWAN MOHAMED 
+
+purposes : To transform the business by integrating efficient production lines with digital retail strategies, ensuring customer satisfaction and long-term growth.
